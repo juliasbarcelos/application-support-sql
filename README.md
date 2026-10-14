@@ -142,15 +142,15 @@ Nenhuma alteração foi realizada aos registos originais das encomendas ou dos p
 
 | Script | Finalidade |
 |---|---|
-| [investigacao_incidente.sql](investigacao_incidente.sql) | Identificação da inconsistência |
-| [validacao_valores.sql](validacao_valores.sql) | Validação dos valores |
-| [analise_geral_encomendas.sql](analise_geral_encomendas.sql) | Análise geral com LEFT JOIN |
-| [analise_datas.sql](analise_datas.sql) | Comparação das datas |
-| [criacao_logs_simulados.sql](criacao_logs_simulados.sql) | Criação dos logs fictícios |
-| [consulta_logs.sql](consulta_logs.sql) | Consulta cronológica dos logs |
-| [identificacao_erros.sql](identificacao_erros.sql) | Filtragem de eventos ERROR |
-| [erro_detalhado_simulado.sql](erro_detalhado_simulado.sql) | Inserção de erro técnico fictício |
-| [comparacao_erros_simulados.sql](comparacao_erros_simulados.sql) | Comparação de mensagens de erro |
+| [investigacao_incidente.sql](sql/investigacao_incidente.sql) | Identificação da inconsistência |
+| [validacao_valores.sql](sql/validacao_valores.sql) | Validação dos valores |
+| [analise_geral_encomendas.sql](sql/analise_geral_encomendas.sql) | Análise geral com LEFT JOIN |
+| [analise_datas.sql](sql/analise_datas.sql) | Comparação das datas |
+| [criacao_logs_simulados.sql](sql/criacao_logs_simulados.sql) | Criação dos logs fictícios |
+| [consulta_logs.sql](sql/consulta_logs.sql) | Consulta cronológica dos logs |
+| [identificacao_erros.sql](sql/identificacao_erros.sql) | Filtragem de eventos ERROR |
+| [erro_detalhado_simulado.sql](sql/erro_detalhado_simulado.sql) | Inserção de erro técnico fictício |
+| [comparacao_erros_simulados.sql](sql/comparacao_erros_simulados.sql) | Comparação de mensagens de erro |
 
 ### Evidências
 
